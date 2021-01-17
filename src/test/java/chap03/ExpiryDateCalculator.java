@@ -6,5 +6,5 @@ public class ExpiryDateCalculator {
 
     public LocalDate calculateExpiryDate(LocalDate billingDate, int payAmount) {
         return billingDate.plusMonths(1);
-    }
+     }
 }
