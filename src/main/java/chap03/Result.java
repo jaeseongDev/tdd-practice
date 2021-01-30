@@ -10,4 +10,4 @@ public class Result {
 
     }
 }
-GIT_COMMITTER_DATE="Feb 12 11:00 2020 +0900" git commit --amend --date="Feb 12 11:00 2020 +0900"
+e
