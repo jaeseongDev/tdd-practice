@@ -10,9 +10,3 @@ public class Result {
 
     }
 }
-e
-<<<<<<< HEAD
-aa
-=======
-a
->>>>>>> 74d95cb9605529cdf7a4eb6f427c3d36d094ce29
